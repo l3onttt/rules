@@ -1,0 +1,3 @@
+# 用于节点管理后台的探针
+# 为了测试clash规则中引用规则集的有效性
+DOMAIN,ptest-8.ipcheck.ing
